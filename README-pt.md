@@ -1,7 +1,7 @@
 ## João Arthur
 
 - **E-mail:** joao.lothamer@gmail.com<br>
-- **Github:** [João Arthur](https://github.com/Joao-Arthur)
+- **Github:** [Joao-Arthur](https://github.com/Joao-Arthur)
 
 ## Sobre
 
