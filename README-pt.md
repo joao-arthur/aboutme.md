@@ -25,7 +25,9 @@ Possuo mais de 3 anos de experiência no desenvolvimento de aplicações web uti
 **Desenvolvedor FullStack** - [Ema Software](https://ema.net.br/) Jan 2019 - Atualmente<br>
 
 > Dando manutenção em projetos em React, NodeJS e Delphi
+
 > Criando projetos em React e NodeJS
+
 > Criando projetos em Java
 
 ## Educação
