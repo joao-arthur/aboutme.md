@@ -25,7 +25,9 @@
 **FullStack Developer** - [Ema Software](https://ema.net.br/) Jan 2019 - Current<br>
 
 > Mantening React, NodeJS and Delphi projects
+
 > Creating projects in React and NodeJS
+
 > Creating projects in Java
 
 ## Education
