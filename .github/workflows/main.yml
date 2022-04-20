@@ -1,0 +1,41 @@
+name: Build & Release 🚀
+
+on:
+  push:
+    tags:
+      - "v*.*.*"
+
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+jobs:
+  build:
+    name: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Rename CV files
+        run: |
+          mkdir ./docs
+          mv README.md ./docs/cv-webdev-joao-arthur.md
+          mv README-pt.md ./docs/cv-webdev-joao-arthur-ptbr.md
+      - uses: baileyjm02/markdown-to-pdf@v1
+        with:
+          input_dir: ./docs
+          output_dir: souzaramon
+          images_dir: ./images
+          image_import: ./images
+          build_html: false
+     
+      - uses: actions/upload-artifact@v1
+        with:
+          name: cv-webdev-ramon-souza
+          path: souzaramon
+          
+      - uses: softprops/action-gh-release@v1
+        if: startsWith(github.ref, 'refs/tags/')
+        with:
+          files: |
+            ./souzaramon/cv-webdev-joao-arthur.pdf
+            ./souzaramon/cv-webdev-joao-arthur-ptbr.pdf
