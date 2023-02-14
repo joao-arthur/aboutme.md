@@ -1,43 +1,54 @@
-## João Arthur
+# João Arthur
 
-- **E-mail:** joao.lothamer@gmail.com<br>
-- **Github:** [Joao-Arthur](https://github.com/Joao-Arthur)
+- **E-mail:** joao.lothamer@gmail.com
+- **GitHub:** [joao-arthur](https://github.com/joao-arthur)
+- **LinkedIn:** [joao-lothamer](https://www.linkedin.com/in/joao-lothamer)
 
 ## About me
 
-3+ years of experience in web development with JavaScript. I'm always excited to learn new fascinating technologies. Currently learning Rust and Elixir.
+> 4+ years of experience in web development with JavaScript and its ecossystem. I'm interest about clean code and unit testing. I'm always looking for new fascinating technologies. Currently learning Rust.
 
 ## Skills
 
-- English
-- Portuguese
-- Git
-- Java
-- JavaScript & TypeScript
-- NodeJS
-- Express & NestJS
-- React
-- PostgreSQL
-- MongoDB
+### Programming languages
 
-## Work Experience
+- JavaScript & Node & TypeScript (advanced)
+- Java (intermediate)
+- Rust (basics)
 
-**FullStack Developer** - [Ema Software](https://ema.net.br/) Jan 2019 - Current<br>
+### Frontend
 
-> Mantening React, NodeJS and Delphi projects
+- React (advanced)
+- NextJS (basics)
 
-> Creating projects in React and NodeJS
+# Backend
 
-> Creating projects in Java
+- NestJS (intermediate)
+- Spring (intermediate)
+
+# Databases
+
+- PostgreSQL (basics)
+- MongoDB (basics)
+
+## Work experience
+
+**FullStack Developer** - [Betha Sistemas](https://www.betha.com.br/) Aug 2022 - Current
+
+- Mantening projects in AngularJS and Spring
+
+**FullStack Developer** - [Ema Software](https://ema.net.br/) Jan 2019 - Aug 2022
+
+- Creating and mantening projects in Java, React and NodeJS
 
 ## Education
 
-**Bacharelado em Ciência da Computação**
+**Bachelor of Computer Science**
 
 - UNESC - Universidade Do Extremo Sul Catarinense
 - Jan 2019 - **ongoing**
 
-**Curso técnico de informática**
+**Technical course in informatics**
 
 - CEDUP - Centro de Educação Profissional - Abílio Paulo
-- Fev 2016 - Dez 2018
+- Feb 2016 - Dez 2018

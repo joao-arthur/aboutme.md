@@ -1,34 +1,45 @@
-## João Arthur
+# João Arthur
 
-- **E-mail:** joao.lothamer@gmail.com<br>
-- **Github:** [Joao-Arthur](https://github.com/Joao-Arthur)
+- **E-mail:** joao.lothamer@gmail.com
+- **GitHub:** [joao-arthur](https://github.com/joao-arthur)
+- **LinkedIn:** [joao-lothamer](https://www.linkedin.com/in/joao-lothamer)
 
 ## Sobre
 
-Possuo mais de 3 anos de experiência no desenvolvimento de aplicações web utilizando JavaScript. Busco constantemente aprender tecnologias novas que me fascinem. Atualmente estou aprendendo Rust e Elixir.
+> Possuo mais de 4 anos de experiência no desenvolvimento de aplicações web utilizando JavaScript e seu ecossistema. Tenho interesse em código limpo e testes unitários. Busco aprender tecnologias novas que me fascinem. Atualmente estou aprendendo Rust.
 
 ## Habilidades
 
-- Inglês
-- Português
-- Git
-- Java
-- JavaScript & TypeScript
-- NodeJS
-- Express & NestJS
-- React
-- PostgreSQL
-- MongoDB
+### Linguagens de programação
+
+- JavaScript & Node & TypeScript (avançado)
+- Java (intermediário)
+- Rust (básico)
+
+### Frontend
+
+- React (avançado)
+- NextJS (básico)
+
+### Backend
+
+- NestJS (intermediário)
+- Spring (intermediário)
+
+### Bancos de dados
+
+- PostgreSQL (básico)
+- MongoDB (básico)
 
 ## Experiência
 
-**Desenvolvedor FullStack** - [Ema Software](https://ema.net.br/) Jan 2019 - Atualmente<br>
+**Desenvolvedor FullStack** - [Betha Sistemas](https://www.betha.com.br/) Ago 2022 - Atualmente
 
-> Dando manutenção em projetos em React, NodeJS e Delphi
+- Dando manutenção em projetos em AngularJS e Spring
 
-> Criando projetos em React e NodeJS
+**Desenvolvedor FullStack** - [Ema Software](https://ema.net.br/) Jan 2019 - Ago 2022
 
-> Criando projetos em Java
+- Criando e dando manutenção em projetos em Java, React e NodeJS
 
 ## Educação
 
