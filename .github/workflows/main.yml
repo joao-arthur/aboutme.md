@@ -1,25 +1,21 @@
-name: Build & Release 🚀
-
+name: build & release
 on:
   push:
     tags:
       - '*'
-
 env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
 jobs:
   build:
     name: build
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-
-      - name: Rename CV files
+      - name: Rename files
         run: |
           mkdir ./docs
-          mv README.md ./docs/cv-webdev-joao-arthur.md
-          mv README-pt.md ./docs/cv-webdev-joao-arthur-ptbr.md
+          mv README.md ./docs/curriculum-joao-arthur_en.md
+          mv README-pt.md ./docs/curriculum-joao-arthur-pt.md
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
           input_dir: ./docs
@@ -27,15 +23,13 @@ jobs:
           images_dir: ./images
           image_import: ./images
           build_html: false
-
       - uses: actions/upload-artifact@v1
         with:
-          name: cv-webdev-joao-arthur
+          name: curriculum-joao-arthur
           path: joao-arthur
-
       - uses: softprops/action-gh-release@v1
         if: startsWith(github.ref, 'refs/tags/')
         with:
           files: |
-            ./joao-arthur/cv-webdev-joao-arthur.pdf
-            ./joao-arthur/cv-webdev-joao-arthur-ptbr.pdf
+            ./joao-arthur/curriculum-joao-arthur-en.pdf
+            ./joao-arthur/curriculum-joao-arthur-pt.pdf
