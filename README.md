@@ -29,15 +29,15 @@ programming_, with notions of _functional programming_.
 - `React` advanced
 - `NextJS` basics
 
-# Backend
+### Backend
 
 - `NestJS` intermediate
 - `Spring` intermediate
 
-# Databases
+### Databases
 
-- `PostgreSQL` (basics)
-- `MongoDB` (basics)
+- `PostgreSQL` basics
+- `MongoDB` basics
 
 ## Work experience
 
