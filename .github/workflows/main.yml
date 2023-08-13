@@ -14,7 +14,7 @@ jobs:
       - name: Rename files
         run: |
           mkdir ./docs
-          mv README.md ./docs/curriculum-joao-arthur_en.md
+          mv README.md ./docs/curriculum-joao-arthur-en.md
           mv README-pt.md ./docs/curriculum-joao-arthur-pt.md
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
