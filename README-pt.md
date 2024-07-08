@@ -7,18 +7,17 @@
 
 ## Sobre
 
-> 4 anos de experiência no desenvolvimento de aplicações web utilizando
-> Javascript com _Node_, _Typescript_ e mais recentemente _Deno_.
+> 5 anos de experiência no desenvolvimento de aplicações web utilizando _JavaScript_, _TypeScript_ e
+> _NodeJS_.
 
-> Busco aplicar _clean code_, _clean architecture_ e _testes unitários_ em meus
-> projetos
+> Busco aplicar _clean code_, _clean architecture_ e _testes unitários_ no meu código.
 
-## Habilidades
+## Habilidades Técnicas
 
 ### Linguagens de programação
 
-Domínio nos paradigmas de _programação orientada a objetos_ e _programação
-estruturada_ com noções de _programação funcional_
+Domínio nos paradigmas de _programação orientada a objetos_ e _programação estruturada_ com noções
+de _programação funcional_.
 
 - `JavaScript` avançado
 - `Java` intermediário
@@ -41,13 +40,11 @@ estruturada_ com noções de _programação funcional_
 
 ## Experiência
 
-**Desenvolvedor FullStack** - [Betha Sistemas](https://www.betha.com.br/) Ago
-2022 - Atualmente
+**Desenvolvedor FullStack** - [Betha Sistemas](https://www.betha.com.br/) Ago 2022 - Atualmente
 
 - Dando manutenção em projetos em AngularJS e Spring
 
-**Desenvolvedor FullStack** - [Ema Software](https://ema.net.br/) Jan 2019 - Ago
-2022
+**Desenvolvedor FullStack** - [Ema Software](https://ema.net.br/) Jan 2019 - Ago 2022
 
 - Criando e dando manutenção em projetos em Java, React e NodeJS
 
