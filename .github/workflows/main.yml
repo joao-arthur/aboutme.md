@@ -1,4 +1,4 @@
-name: build & release
+name: Build & Release
 on:
   push:
     tags:
@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Rename files
+      - name: Rename CV files
         run: |
           mkdir ./docs
           mv README.md ./docs/curriculum-joao-arthur-en.md
@@ -23,11 +23,11 @@ jobs:
           images_dir: ./images
           image_import: ./images
           build_html: false
-      - uses: actions/upload-artifact@v1
+      - uses: actions/upload-artifact@v4
         with:
           name: curriculum-joao-arthur
           path: joao-arthur
-      - uses: softprops/action-gh-release@v1
+      - uses: softprops/action-gh-release@v2
         if: startsWith(github.ref, 'refs/tags/')
         with:
           files: |
