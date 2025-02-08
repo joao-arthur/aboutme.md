@@ -51,6 +51,10 @@ Web backend and frontend, desktop and mobile development
 
 Web backend and desktop development
 
+#### Rust
+
+Web backend and frontend (WASM), desktop (GTK)
+
 ### Frontend
 
 Websites that run on any device, using `JSX`, `flat design` and `material design`, data integration with `http` requests and `websockets`, and `unit tests` 
