@@ -61,20 +61,12 @@ Novas aplicaçoes do zero, aplicando boas práticas, integrando com bibliotecas 
 
 #### NextJS
 
-Novas aplicaçoes do zero
+Pequenas aplicaçoes do zero, aplicando boas práticas, integrando com bibliotecas e com backend
 
 ### Backend
 
-Aplicações que integram banco de dados, microserviços, sistemas de filas e que possuem testes unitários
-
-#### NestJS
-
-Pequenas aplicações do zero que integram com banco de dados, microserviços e que possuem testes unitários
-
-#### Spring
-
-Aplicações do zero, integrando com banco de dados, microserviços, sistema de filas e com testes unitários
+Aplicações que integram com banco de dados, microserviços, sistema de filas, com cobertura de testes unitários, em **NestJS** e **Spring**
 
 ### Bancos de dados
 
-Experiência em **MySQL** e **PostgreSQL**, com domínio de `DDL`, `DML`, `DQL` e `TCL` e conhecimento básico para medir performance. Experiência também com NoSQL, em **MongoDB**
+Domínio de `DDL`, `DML`, `DQL` e `TCL` e conhecimento básico para medir performance em **MySQL** e **PostgreSQL**, com . Experiência também com NoSQL, em **MongoDB**

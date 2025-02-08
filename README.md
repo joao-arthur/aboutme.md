@@ -45,44 +45,28 @@ Domain in the paradigms of _object-oriented programming_ and _structured program
 
 #### JavaScript
 
-Experience in web backend and frontend, desktop and mobile development
+Web backend and frontend, desktop and mobile development
 
 #### Java
 
-Experience in web backend and desktop development
+Web backend and desktop development
 
 ### Frontend
 
-Experience creating websites that run on any device, using `JSX`, `flat design` and `material design`, data integration with `http` requests and `websockets`, and `unit tests` 
+Websites that run on any device, using `JSX`, `flat design` and `material design`, data integration with `http` requests and `websockets`, and `unit tests` 
 
-Experience creating responsibles websites with flat and material design
+#### React
 
-- `React`
-  - Experience creating apps with routes, managing state, data, http requests and websockets
-- `NextJS`
-  - Experience migrating projects from _create-react-app_
+New aplications, applying good practices, integrating with libraries and backend
+
+#### NextJS
+
+Small new aplications, applying good practices, integrating with libraries and backend
 
 ### Backend
 
-- `NestJS`
-  - Experience creating servers that handle http requests, authentication, relational and
-    document-oriented databases
-- `Spring`
-  - Experience creating servers that handle http requests, authentication, relational and
-    document-oriented databases, and queues
+Applications that integrate with database, microservices, queue systems, with unit testing coverage, in **NestJS** and **Spring**
 
 ### Databases
 
-- `MySQL`
-  - Experience with DDL, DML and DQL
-- `PostgreSQL`
-  - Experience with DDL, DML, TCL and DQL
-- `MongoDB`
-  - Experience with basic types and queries
-
-- `MySQL`
-  - Experience with DDL, DML and DQL
-- `PostgreSQL`
-  - Experience with DDL, DML, TCL and DQL
-- `MongoDB`
-  - Experience with basic types and queries
+Experience in `DDL`, `DML`, `DQL` and `TCL` and basic knowledge to measure performance in **MySQL** and **PostgreSQL**. Experience also in NoSQL with **MongoDB**
