@@ -13,54 +13,68 @@
 
 **Desenvolvedor FullStack** - [Betha Sistemas](https://www.betha.com.br/) Ago 2022 - Atualmente
 
-- Mantenho projetos **cloud** com backend Java (Spring e WildFly) e frontend AngularJS
-- Implemento novas funcionalidades, em AngularJS
+- Mantenho projetos **cloud** com backend `Spring` e `WildFly`, e frontend `AngularJS`
+- Implemento novas funcionalidades, em `Spring` e `AngularJS`
+- Desenvolvi um aplicativo mobile em `Expo`
 
 **Desenvolvedor FullStack** - [Ema Software](https://ema.net.br/) Jan 2019 - Ago 2022
 
-- Mantive projetos legados **on premise** com backend Delphi e microservicos e frontend React
-- Desenvolvi novas funcionalidades utilizando backend Node.js e frontend React
-- Migrei dois projetos frontend React para Typescript, diminuindo erros no sistema e melhorando a experiência do usuário
+- Mantive projetos legados **on premise** com backend Delphi com microservicos e frontend `React`
+- Desenvolvi novas funcionalidades utilizando backend `NestJS` e frontend `React`
+- Migrei dois projetos de frontend React para `TypeScript`, diminuindo erros no sistema e melhorando a **experiência do usuário**
 
 ## Minha formação
 
-**Bacharelado em Ciência da Computação**
+### Bacharelado em Ciência da Computação (2019 - 2024)
 
-- UNESC - Universidade Do Extremo Sul Catarinense
-- 2019 - 2024
+> **UNESC** Universidade Do Extremo Sul Catarinense
 
-**Curso técnico de informática**
+Aprendi C, estruturas de dados e algoritmos, compiladores
 
-- CEDUP - Centro de Educação Profissional - Abílio Paulo
-- 2016 - 2018
+### Curso técnico de informática (2016-2018)
+
+> **CEDUP** Centro de Educação Profissional Abílio Paulo
+
+Aprendi o básico sobre programação, banco de dados e desenvolvimento web
 
 ## Habilidades Técnicas
 
 ### Linguagens de programação
 
-Domínio nos paradigmas de _programação orientada a objetos_ e _programação estruturada_ com noções
-de _programação funcional_
+Domínio nos paradigmas de _programação orientada a objetos_ e _programação estruturada_ com noções de _programação funcional_
 
-- `JavaScript` experiência no desenvolvimento web backend e frontend, desktop e mobile
-- `Java` experiência no desenvolvimento web backend e desktop
+#### JavaScript
+
+Web backend e frontend, desktop e mobile
+
+#### Java
+
+Web backend e desktop
 
 ### Frontend
 
-Experiência desenvolvendo sites que rodam em qualquer dispositivo, usando JSX, flat e material design, integração de dados com requisições http e websocket, e testes unitários
+Sites que rodam em qualquer dispositivo, usando `JSX`, `flat design` e `material design`, integração de dados com requisições `http` e `websocket`, e `testes unitários`
 
-- `React` experiência para desenvolver novas aplicaçoes do zero, aplicando boas práticas, integrando com bibliotecas e com backend
-- `NextJS` experiência menor, suficiente para desenvolver novas aplicaçoes do zero
+#### React
+
+Novas aplicaçoes do zero, aplicando boas práticas, integrando com bibliotecas e com backend
+
+#### NextJS
+
+Novas aplicaçoes do zero
 
 ### Backend
 
-Experiência desenvolvendo aplicações com integração com banco de dados, microserviços, sistemas de filas, e testes unitários
+Aplicações que integram banco de dados, microserviços, sistemas de filas e que possuem testes unitários
 
-- `NestJS` experiência desenvolvendo pequenas aplicações do zero, integrando com microserviços e com testes unitários
-- `Spring` experiência desenvolvendo aplicações do zero, integrando com microserviços, sistema de filas e com testes unitários
+#### NestJS
+
+Pequenas aplicações do zero que integram com banco de dados, microserviços e que possuem testes unitários
+
+#### Spring
+
+Aplicações do zero, integrando com banco de dados, microserviços, sistema de filas e com testes unitários
 
 ### Bancos de dados
 
-Domínio de DDL, DML e DQL, conhecimento básico para medir performance. Experiência também com no-SQL
-
-- `PostgreSQL`
-- `MongoDB`
+Experiência em **MySQL** e **PostgreSQL**, com domínio de `DDL`, `DML`, `DQL` e `TCL` e conhecimento básico para medir performance. Experiência também com NoSQL, em **MongoDB**
