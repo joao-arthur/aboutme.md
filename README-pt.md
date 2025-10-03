@@ -1,6 +1,6 @@
 # João Arthur
 
-* **E-mail** [joao.lothamer@gmail.com](mailto:joao.lothamer@gmail.com)
+* **E-mail** [joaoarthurlf.dev@gmail.com](mailto:joaoarthurlf.dev@gmail.com)
 * **GitHub** [joao-arthur](https://github.com/joao-arthur)
 * **LinkedIn** [joao-lothamer](https://www.linkedin.com/in/joao-lothamer)
 * **Site** [joao.arthur.dev](https://www.joao-arthur.dev)
