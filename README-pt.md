@@ -7,9 +7,14 @@
 
 ## Resumo
 
-> Desenvolvedor fullstack com **6 anos de experiência** em aplicações **web** , além de **mobile** e **desktop**. Experiência em **migração de sistemas legados**, **desenvolvimento cloud** e foco em **qualidade de código com testes unitários**.
+> Desenvolvedor fullstack com **7 anos de experiência** em aplicações **web** , além de **mobile** e **desktop**. Experiência em **migração de sistemas legados**, **desenvolvimento cloud** e foco em **qualidade de código com testes unitários**.
 
 ## Experiência
+
+**Desenvolvedor Frontend** - [Segware](https://segware.com/) | 10/2025 - Atualmente
+
+- Implementação de novas funcionalidades em sistemas **cloud** com frontend `Angular`, com foco na qualidade de código.
+- Manutenção de sistemas **cloud** com frontend `React`, com qualidade de código e testes unitários.
 
 **Desenvolvedor FullStack** – [Betha Sistemas](https://www.betha.com.br/) | 08/2022 – 10/2025
 
@@ -17,7 +22,7 @@
 - Implementação de novas funcionalidades em `Spring` e `AngularJS`, com foco em testes unitários e qualidade de código.
 - Desenvolvimento de aplicativo mobile em `Expo`.
 
-**Desenvolvedor FullStack** – [Ema Software](https://ema.net.br/) | 01/2019 – 08/2022
+**Desenvolvedor FullStack** – [Ema Sistemas](https://emasistemas.com.br/) | 01/2019 – 08/2022
 
 - Manutenção de sistemas **on-premise** em backend Delphi com microserviços e frontend `React`.
 - Desenvolvimento de novas funcionalidades em `NestJS` e `React`, com testes unitários.

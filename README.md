@@ -7,9 +7,14 @@
 
 ## Resume
 
-> Fullstack developer with **6 years of experience** in **web** applications, alongside **mobile** and **desktop** development. Experience in **legacy systems migration**, **cloud development** and emphasis on **code quality with unit tests**.
+> Fullstack developer with **7 years of experience** in **web** applications, alongside **mobile** and **desktop** development. Experience in **legacy systems migration**, **cloud development** and emphasis on **code quality with unit tests**.
 
 ## Experience
+
+**Frontend Developer** - [Segware] 10/2025 - Currently
+
+- Developing new features in **cloud** projects, with `Angular` frontend, with focus on code quality.
+- Mantening **cloud** projects, with `React` frontend, with focus on code quality and unit tests.
 
 **FullStack Developer** - [Betha Sistemas](https://www.betha.com.br/) 08/2022 - 10/2025
 
@@ -17,7 +22,7 @@
 - Developing new features, in `Spring` and `AngularJS`, with focus on code quality and unit tests.
 - Developed a mobile app with `Expo`.
 
-**FullStack Developer** - [Ema Software](https://ema.net.br/) 01/2019 - 08/2022
+**FullStack Developer** - [Ema Sistemas](https://emasistemas.com.br/) 01/2019 - 08/2022
 
 - Mantening **on premise** legacy projects with Delphi microservices as backend and `React` frontend.
 - Developing new features with `NestJS` backend and `React` frontend.
